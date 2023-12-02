@@ -1,2 +1,2 @@
-# TPs-datascienc
+# TPs-datascience
 
